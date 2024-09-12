@@ -1,5 +1,7 @@
 # Odin Recipes
 
+Live preview: https://dominikcicea.github.io/odin-recipes/
+
 Welcome to my first project from The Odin Project! 🎉
 
 I created a simple recipe page and since I'm a vegetarian, all 3 recipes are plant-based:
